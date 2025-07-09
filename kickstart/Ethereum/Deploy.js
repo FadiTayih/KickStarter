@@ -3,7 +3,7 @@ const { Web3 } = require("web3");
 const compiledFactory = require("./Build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "flower limb swarm flag mirror omit february broken camera aisle leg mystery",
+  "",
   "https://sepolia.infura.io/v3/53adcb5b841347f6ad32e493ee2513c1"
 );
 
